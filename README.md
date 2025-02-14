@@ -11,7 +11,7 @@ This project predicts ITC stock prices using historical data and the Facebook Pr
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/aishmoitra/ITC_Stock_Price_Prediction
    cd stock_price_prediction
    ```
 2. Install dependencies:
@@ -27,7 +27,7 @@ This project predicts ITC stock prices using historical data and the Facebook Pr
 See `requirements.txt` for a full list of dependencies.
 
 ## Usage
-- Load the dataset (`itc_historical_data.csv`).
+- Load the dataset `itc_historical_data.csv`.
 - Run the notebook to generate forecasts.
 - View interactive plots for insights.
 
