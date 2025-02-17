@@ -32,4 +32,4 @@ See `requirements.txt` for a full list of dependencies.
 - View interactive plots for insights.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.txt file for details.
+This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/aishmoitra/ITC_Stock_Price_Prediction/blob/main/LICENSE.txt) file for details.
